@@ -1,0 +1,32 @@
+Data fields
+
+In general, the information provided for each customer
+
+Demographic information. Sex and senior citizen.
+Billing information. Monthly charges and payment method.
+Activated services. Multiple lines, online security, streaming TV, streaming movies, online backup, etc.
+Client relationship. Contrat and tenure.
+Attribute to predict: churn. If churn = 0, does not abandon. If churn =1, does abandon.
+All data fields of the dataset are listed below. The majority of them are self-explaining.
+
+customerID. Unique ID that identifies the customer. Please be careful, as this must be included in the submission.
+gender
+SeniorCitizen
+Partner
+Dependents
+tenure
+PhoneService
+MultipleLines
+InternetService
+OnlineSecurity
+OnlineBackup
+DeviceProtection
+TechSupport
+StreamingTV
+StreamingMovies
+Contract
+PaperlessBilling
+PaymentMethod
+MonthlyCharges
+TotalCharges
+Churn. The attribute to predict.
