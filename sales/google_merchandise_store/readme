@@ -1,4 +1,5 @@
 What should I expect the data format to be?
+we a’re challenged to analyze a Google Merchandise Store (also known as GStore, where Google swag is sold) customer dataset to predict revenue per customer.
 
 Both train_v2.csv and test_v2.csv contain the columns listed under Data Fields. Each row in the dataset is one visit to the store. Because we are predicting the log of the total revenue per user, be aware that not all rows in test_v2.csv will correspond to a row in the submission, but all unique fullVisitorIds will correspond to a row in the submission.
 
