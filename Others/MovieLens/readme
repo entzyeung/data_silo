@@ -2,8 +2,13 @@
 
 MovieLens 100K movie ratings. Stable benchmark dataset. 100,000 ratings from 1000 users on 1700 movies. Released 4/1998.
 
-    README.txt
+    README.txt 
+    http://files.grouplens.org/datasets/movielens/ml-100k-README.txt
+    
     ml-100k.zip (size: 5 MB, checksum)
+    http://files.grouplens.org/datasets/movielens/ml-100k.zip
+    
     Index of unzipped files
+    http://files.grouplens.org/datasets/movielens/ml-100k/
 
 Permalink: https://grouplens.org/datasets/movielens/100k/
